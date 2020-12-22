@@ -2,7 +2,7 @@ body {
   background-color: rgb(245, 248, 248);
 }
 .backhead{
-    background-color: rgb(5, 5, 29);
+    background-color: rgb(37, 78, 56);
     margin: -15px;
     padding-top: 10px;
     padding-bottom: 5px;
@@ -34,21 +34,21 @@ body {
   font-size: 20px;
   float: right; 
 }
-.logo > a{
+.login >a{
 color: white;
 }
 /* unvisited link */
-.logo > a:link {
+.login >a:link {
   color: white;
 }
 
 /* visited link */
-.logo > a:visited {
+.login >a:visited {
   color: white;
 }
 
 /* mouse over link */
-.logo > a:hover {
+.login >a:hover {
   color: rgb(163, 118, 141);
 }
 .place1
