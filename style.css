@@ -38,17 +38,17 @@ body {
 color: white;
 }
 /* unvisited link */
-a:link {
+.logo > a:link {
   color: white;
 }
 
 /* visited link */
-a:visited {
+.logo > a:visited {
   color: white;
 }
 
 /* mouse over link */
-a:hover {
+.logo > a:hover {
   color: rgb(163, 118, 141);
 }
 .place1
