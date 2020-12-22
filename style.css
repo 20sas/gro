@@ -24,6 +24,33 @@ body {
  /*  padding-right: 95px; */
 }
 
+.logo > .login{
+  color: white;
+  text-decoration-color: white;
+  text-align: right;
+  padding-right: 50px;
+  padding-top: 18px;
+  font-family: 'Langar', cursive;
+  font-size: 20px;
+  float: right; 
+}
+.logo > a{
+color: white;
+}
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(163, 118, 141);
+}
 .place1
 {
   padding-top: 22px;
