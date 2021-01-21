@@ -145,5 +145,6 @@ input[type=text]{
     background-color:#959df3;
     text-shadow: 2px 2px 2px #757bbe;
     border-radius: 30px;
+    box-shadow:2px 2px 2px #757bbe ;
     
 }
