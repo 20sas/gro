@@ -183,7 +183,8 @@ input[type=text]{
 .lay1in{
     
     padding-top:28px;
-    background-color:#f8ef72;
+    background-color:#ffba26; 
+    background-image: linear-gradient(to right, #ff6a06 , #ff970e);
     text-shadow: 2px 2px 2px #1818156c;
     border-radius: 30px;
     box-shadow:2px 2px 2px #5a5647 ;
@@ -202,7 +203,7 @@ input[type=text]{
 }
 .label{
     /* padding-top: 15px; */
-    background-color: #943a9c;
+    background-color: #8d384e;
     margin: auto;
     /* margin: -1px; */
     max-width:60%;
@@ -225,7 +226,7 @@ input[type=text]{
 
 .ess{
     background-color:none;
-    color: #edf0f5;
+    color: #ffffff;
     height:auto;
     /* max-width:80%; */
     padding:5px;
@@ -241,10 +242,11 @@ input[type=text]{
 }
 .flow{
     padding-top: 22px;
-    background-color:rgb(182, 31, 136);
-    box-shadow:2px  2px 2px rgb(77, 70, 70);
+    /* background-color:#b61f88; */
+    background-image: linear-gradient(to right, #cf209b , #8c3ba5);
+    box-shadow:3px  3px 2px rgb(41, 37, 37);
     border-radius:10px;
-    text-shadow: 2px 2px 2px #54554c;
+    text-shadow: 1px 1px 1px #918b8b4f;
     margin-bottom:
 }
 
@@ -253,12 +255,13 @@ input[type=text]{
     height:200px;
     border-radius: 10px;
     margin-bottom: 2px;
-    box-shadow:2px 2px 2px #54554c;
+    box-shadow:2px 2px 2px #252125;
     /* position: absolute;; */
     /* clip:rect(0,100px,100px,0); */
 }
 .labeless{
-    background-color:rgb(148, 99, 194);
+    background-color:#3a233d;
+    
     margin:auto;
     max-width:65%;
     margin-bottom: 15px;
