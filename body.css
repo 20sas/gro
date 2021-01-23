@@ -247,7 +247,7 @@ input[type=text]{
     box-shadow:3px  3px 2px rgb(41, 37, 37);
     border-radius:10px;
     text-shadow: 1px 1px 1px #918b8b4f;
-    margin-bottom:
+    margin-bottom:10px;
 }
 
 .flow img {
@@ -269,6 +269,42 @@ input[type=text]{
     padding-top: 5px;
     padding-bottom: 5px;
     border-radius: 50px;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     box-shadow:2px 2px 2px #1c1d1a;
+}
+
+.Kitcheness{
+    background-color:none;
+    color: #ffffff;
+    height:auto;
+    /* max-width:80%; */
+    padding:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr 1fr;
+    text-align: center;
+    font-family: 'Balsamiq Sans', cursive;
+    grid-column-gap:36px ;
+    grid-row-gap:25px;
+    font-size: 24px;
+}
+
+.kit{
+    padding-top: 22px;
+    /* background-color:#b61f88; */
+    background-image: linear-gradient(to right, #cf202f , #f03554);
+    box-shadow:3px  3px 2px rgb(41, 37, 40);
+    border-radius:10px;
+    text-shadow: 1px 1px 1px #918b8b4f;
+    margin-bottom:10px;
+    letter-spacing:2px;
+}
+
+.kit img{
+    width:200px;
+    height:200px;
+    border-radius: 10px;
+    margin-bottom: 2px;
+    box-shadow:2px 2px 2px #252125;  
 }
